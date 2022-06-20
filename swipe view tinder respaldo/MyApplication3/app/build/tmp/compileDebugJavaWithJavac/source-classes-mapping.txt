@@ -1,9 +1,0 @@
-com/example/myapplication/BuildConfig.java
- com.example.myapplication.BuildConfig
-com/example/myapplication/MainActivity.java
- com.example.myapplication.MainActivity
- com.example.myapplication.MainActivity$1
-com/example/myapplication/CourseModal.java
- com.example.myapplication.CourseModal
-com/example/myapplication/DeckAdapter.java
- com.example.myapplication.DeckAdapter
